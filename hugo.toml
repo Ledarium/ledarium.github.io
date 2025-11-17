@@ -2,6 +2,7 @@ baseURL = 'https://wearentsa.me/'
 languageCode = 'en-us'
 title = 'We are not the same.'
 theme = 're-terminal'
+enableGitInfo = true
 
 [caches]
   [caches.images]
@@ -34,7 +35,7 @@ theme = 're-terminal'
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"

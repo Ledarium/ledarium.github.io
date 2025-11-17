@@ -19,6 +19,7 @@ color = "" #color from the theme settings
 
 I'm just testing out the tutorial from https://gohugo.io/getting-started/ and 
 too lazy to write anything meaningful for now.
+Testing update time.
 
 ## Introduction
 

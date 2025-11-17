@@ -5,14 +5,19 @@ author = "Ledarium"
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
-tags = ["", ""]
-keywords = ["", ""]
+tags = ["site"]
+keywords = [""]
 description = ""
-showFullContent = false
+showFullContent = true
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+
+# First post
+
+I'm just testing out the tutorial from https://gohugo.io/getting-started/ and 
+too lazy to write anything meaningful for now.
 
 ## Introduction
 

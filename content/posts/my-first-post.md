@@ -1,6 +1,7 @@
 +++
 title = "My First Post"
 date = "2025-11-17T04:57:18+04:00"
+expiryDate = "2025-11-17T06:57:18+04:00"
 author = "Ledarium"
 authorTwitter = "" #do not include @
 cover = ""

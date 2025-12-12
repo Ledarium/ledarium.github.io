@@ -9,3 +9,4 @@ title = 'Recommendations'
 - [0xflux](https://fluxsec.red/)
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
 - [djnn@localhost](https://djnn.sh/)
+- [The Bean Ledger](https://thebeanledger.com/)
